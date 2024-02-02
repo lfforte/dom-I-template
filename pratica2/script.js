@@ -6,7 +6,6 @@ console.log(endereco);
 
 const email = document.getElementById('email').value;
 console.log(email);
-email.value = " ";
 
 const limpaform = () => {
   document.getElementById('nome').value = "";
